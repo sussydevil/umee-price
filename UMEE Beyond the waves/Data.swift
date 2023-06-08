@@ -18,7 +18,7 @@ struct Prefs {
             ["UMEE", "umee"],
             ["ATOM", "cosmos"],
             ["STRD", "stride"],
-            ["OSMO", "osmo"],
+            ["OSMO", "osmosis"],
             ["AXL", "axelar"]
         ]
     }
