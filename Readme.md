@@ -1,4 +1,4 @@
-# MacOS Plugin for a simple checking of UMEE price
+# MacOS Widget for a simple checking of UMEE price
 
 ![interface](interface_1.png)
 
@@ -10,6 +10,6 @@
 4) OSMO;
 5) AXL
 
-### You can select interval of updating and... It's all. Just simple beautiful plugin :)
+### You can select interval of updating and... It's all. Just simple beautiful widget :)
 
 ![interface](interface_2.png)
